@@ -2,10 +2,10 @@ import { About, Blog, Gallery, Home, Newsletter, Person, Social, Work } from "@/
 import { Line, Row, Text } from "@once-ui-system/core";
 
 const person: Person = {
-  firstName: "Selene",
-  lastName: "Yu",
-  name: `Selene Yu`,
-  role: "Design Engineer",
+  firstName: "Francen",
+  lastName: "Sellote",
+  name: `Francen Sellote`,
+  role: "UI/UX Designer",
   avatar: "/images/avatar.jpg",
   email: "example@gmail.com",
   location: "Cagayan de Oro, Philippines", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
